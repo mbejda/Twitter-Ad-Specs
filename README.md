@@ -239,7 +239,10 @@ Headline: 23 characters.
 
 <hr>
 
+Use this Twitter Ad Spec checklist to stay on track <br>
+https://github.com/mbejda/Twitter-Ad-Specs/blob/master/CHECKLIST.md
 
+<br>
 
 *Send me a tweet!*<br>
 [@notmilobejda](https://twitter.com/notmilobejda) <br>
