@@ -236,3 +236,9 @@ Headline: 23 characters.
 
 - Image Specs (if used): File size: 3 MB, Aspect ratio: 5:2, Image width / height: 800 X 320PX, File formats: JPEG, PNG, non-animated GIFs.
 
+
+
+*Send me a tweet!*<br>
+[@notmilobejda](https://twitter.com/notmilobejda) <br>
+[Blog](https://mbejda.com)
+
