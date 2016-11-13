@@ -1,6 +1,8 @@
+![](https://github.com/mbejda/Twitter-Ad-Specs/blob/master/TwitterAds.png)
+
 # Twitter Ad Specifications
 **source :** [https://business.twitter.com/en/help/campaign-setup/advertiser-card-specifications.html](https://business.twitter.com/en/help/campaign-setup/advertiser-card-specifications.html)
-
+## Table
 | Type  | Dimensions | Format | Aspect Ratio |
 |---|---|------------|--------|--------------|
 | Website Card | 800px by 320px | JPG or PNG |
@@ -14,6 +16,71 @@
 | Conversational Ads |  800px by 320px |  PNG, JPEG, non-animated GIFs| 5:2 |
 
 <hr>
+## JSON 
+For those who only read JSON formats : 
+```json
+{
+    "Website Card": {
+        "width": 800,
+        "height": 320,
+        "format": ["JPG", "PNG"]
+
+    },
+    "Lead Generation Card": {
+        "width": 800,
+        "height": 200,
+        "format": ["JPG", "PNG"]
+    },
+    "Business APP Card": {
+        "width": 144,
+        "height": 144,
+        "format": ["JPG", "PNG"]
+    },
+    "Image APP Card": {
+        "width": 800,
+        "height": 320,
+        "format": ["JPG", "PNG"]
+    },
+    "Video Thumbnail": {
+        "width": 640,
+        "height": 360,
+        "aspectRatio": [16, 9],
+        "format": ["JPG", "PNG"]
+    },
+    "Single Image Tweet": {
+        "mobile": {
+            "width": 1200,
+            "height": 675,
+            "aspectRatio": [16, 9],
+            "format": ["JPG", "PNG", "GIF"]
+        },
+        "desktop": {
+            "width": 1200,
+            "height": 1200,
+            "aspectRatio": [1, 1],
+            "format": ["JPG", "PNG", "GIF"]
+        },
+    },
+    "Summary Card With Large Image": {
+        "min": {
+            "width": 280,
+            "height": 150
+        },
+        "aspectRatio": [2, 1],
+        "format": ["JPG", "PNG", "GIF"]
+    },
+    "Conversational Ads": {
+        "width": 800,
+        "height": 320,
+        "aspectRatio": [5, 2],
+        "format": ["JPG", "PNG", "GIF"]
+    }
+
+}
+```
+
+<hr>
+
 
 
 ## Twitter Cards
