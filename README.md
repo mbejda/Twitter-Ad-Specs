@@ -11,7 +11,7 @@
 | Image APP Card | 800px by 320px | JPG or PNG |
 | Video Thumbnail | 640px by 360px | JPG or PNG | 16:9 |
 | Single Image Tweets (mobile) | 600px by 335px <br> Recommended : 1200px by 675px  | PNG, JPEG, or GIF | 16:9 |
-| Single Image Tweets (desktop) | Recommended  1200px by 1200px (1:1 aspect ratio) | PNG, JPEG, or GIF | _Any aspect between 2:1 and 1:1 is acceptable. Cropped to 1:1_ |
+| Single Image Tweets (desktop) | Recommended  1200px by 1200px | PNG, JPEG, or GIF | _Any aspect between 2:1 and 1:1 is acceptable. Cropped to 1:1_ |
 | Summary Card With Large Image | min  280px by 150px | PNG, JPEG, or GIF | 2:1 |
 | Conversational Ads |  800px by 320px |  PNG, JPEG, non-animated GIFs| 5:2 |
 
